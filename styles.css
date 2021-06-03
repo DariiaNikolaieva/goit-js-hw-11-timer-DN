@@ -10,6 +10,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.field {
+  margin-right: 20px;
+}
 .value {
   color: #fff;
   font-size: 4rem;
